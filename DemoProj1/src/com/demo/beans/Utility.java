@@ -8,4 +8,9 @@ public class Utility {
 	{
 		return new Date();
 	}
+	
+	public void m1()
+	{
+		System.out.println("M1 method in utility class");
+	}
 }
