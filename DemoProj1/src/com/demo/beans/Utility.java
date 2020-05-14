@@ -11,6 +11,7 @@ public class Utility {
 	
 	public void m1()
 	{
-		System.out.println("M1 method in utility class:abcd");
+
+		System.out.println("M1 method in utility class: 1234");
 	}
 }
